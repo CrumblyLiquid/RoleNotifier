@@ -332,3 +332,9 @@ ASALocalRun/
 
 # Local History for Visual Studio
 .localhistory/
+
+# Ignore vscode settings folder
+.vscode
+
+# Ignore config
+config.json

@@ -1,0 +1,8 @@
+{
+    "token": "Token goes here",
+    "data": {
+        "the role id goes here": "the channel id goes here",
+        "the second role id goes here": "the second channel id goes here",
+        "the third role id goes here": "the third channel id goes here"
+    }
+}
